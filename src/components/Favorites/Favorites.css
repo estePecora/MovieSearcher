@@ -1,0 +1,41 @@
+.favoritesContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.cnt {
+    padding-top: 10px;
+}
+
+.titleFavorites {
+    color: #C4AF3D;
+    font-size: 3rem;
+}
+
+.buttonsContainer{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.linkAndButtons {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+
+.eliminateButton {
+    margin-left: 12px;
+    background: #C4AF3D;
+    border-style: hidden;
+    border-radius: 5px;
+    color: #544C21;
+    letter-spacing: 3px;
+    font-size: 14px;
+    padding: 5px 10px;
+
+}
+
+
